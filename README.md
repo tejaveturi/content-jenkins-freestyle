@@ -2,4 +2,5 @@
 retangular head 
 corrected
 
-polling with github pluggin 
+polling with git pluggin 
+
